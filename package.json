@@ -1,7 +1,7 @@
 {
   "main": "src/main.js",
   "scripts": {
-    "start": "electron ."
+    "demo": "electron ."
   },
   "dependencies": {},
   "devDependencies": {
